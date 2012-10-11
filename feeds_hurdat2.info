@@ -1,0 +1,6 @@
+name = HURDAT2 Parser
+description = A Feeds plugin for parsing HURDAT2 (c. 2012) files
+core = 7.x
+version = 7.x-1.0
+package = Feeds
+dependencies[] = feeds
